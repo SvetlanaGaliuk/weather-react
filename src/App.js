@@ -1,4 +1,4 @@
-//import logo from "./logo.svg";
+//4_4_React + GitHub + Netlify
 
 import OpenSearchCode from "./OpenSearchCode.js";
 import Cities from "./Cities";

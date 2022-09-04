@@ -4,7 +4,7 @@ export default function OpenSearchCode() {
   return (
     <small className="open-source-code">
       <a
-        href="https://github.com/SvetlanaGaliuk/Weather-App"
+        href="https://github.com/SvetlanaGaliuk/weather-react"
         target="_blank"
         rel="noopener noreferrer"
       >

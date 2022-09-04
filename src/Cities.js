@@ -5,22 +5,22 @@ export default function Cities() {
     <div className="Cities">
       <div className="row row-cols-4">
         <div className="col">
-          <a href="#" id="kharkov">
+          <a href="/" id="kharkov">
             Kharkov
           </a>
         </div>
         <div className="col">
-          <a href="#" id="cherkasy">
+          <a href="/" id="cherkasy">
             Cherkasy
           </a>
         </div>
         <div className="col">
-          <a href="#" id="kyiv">
+          <a href="/" id="kyiv">
             Kyiv
           </a>
         </div>
         <div className="col">
-          <a href="#" id="lviv">
+          <a href="/" id="lviv">
             Lviv
           </a>
         </div>
